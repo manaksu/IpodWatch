@@ -1,16 +1,22 @@
 {
-  "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "uuid": "eee6a232-6814-4d1c-9601-0e029e0a3230",
   "shortName": "iPod Face",
   "longName": "iPod Watchface",
   "companyName": "Manaksu",
   "versionLabel": "1.0",
   "sdkVersion": "3",
-  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "targetPlatforms": ["basalt"],
   "watchapp": {
     "watchface": true
   },
   "appKeys": {},
   "resources": {
-    "media": []
+    "media": [
+      {
+        "type": "bitmap",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      }
+    ]
   }
 }
