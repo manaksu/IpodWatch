@@ -11,12 +11,6 @@
   },
   "appKeys": {},
   "resources": {
-    "media": [
-      {
-        "type": "bitmap",
-        "name": "IMAGE_BACKGROUND",
-        "file": "images/background.png"
-      }
-    ]
+    "media": []
   }
 }
